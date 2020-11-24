@@ -8,9 +8,9 @@ public class BankMain {
 	{
 		Scanner Sc=new Scanner(System.in);
 		System.out.println("Choose your bank");
-		System.out.println("1.HDFC");
-		System.out.println("2.SBI");
-		System.out.println("3.ICICI");
+		System.out.println("1.HDFC Bank");
+		System.out.println("2.SBI Bank");
+		System.out.println("3.ICICI Bank");
 	    int Bank=Sc.nextInt();
 	    switch(Bank)
 	    {

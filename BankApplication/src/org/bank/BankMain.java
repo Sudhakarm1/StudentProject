@@ -7,7 +7,7 @@ public class BankMain {
 	public static void main(String[] args) 
 	{
 		Scanner Sc=new Scanner(System.in);
-		System.out.println("Choose your bank Given blow please");
+		System.out.println("Choose your bank");
 		System.out.println("1.HDFC");
 		System.out.println("2.SBI");
 		System.out.println("3.ICICI");
